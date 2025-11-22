@@ -16,8 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
-<span class='anchor' id='about-me'></span>
-# 🌽 About me
+<span class='anchor' id='about'></span>
+# 🌽 About
 I'm **Yuming Liu <font face="楷体">(刘玉铭)</font>**, a jointly-supervised prospective Ph.D. candidate at the University of Science and Technology of China (USTC) and the Institute of Artificial Intelligence of China Telecom (TeleAI), co-advised by Prof. [**Jian Zhao**](https://zhaoj9014.github.io/) at TeleAI and Prof. [**Lan Zhang**](https://linke.ustc.edu.cn/LanZhang/list.htm) at USTC.
 
 My research interests lie in **Trustworthy AI**, with a focus on the **safety of large foundation models**, including topics such as **jailbreak, adversarial attack, and related defenses**. As a prospective Ph.D. student, I am still exploring these areas and eager to learn from others in the field. I warmly welcome discussions and collaborations, especially in **Trustworthy AI and foundation model security**. Please feel free to reach out if you share similar interests, and I would be grateful for any opportunity to exchange ideas and learn together.
