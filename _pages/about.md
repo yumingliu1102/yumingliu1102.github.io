@@ -51,12 +51,6 @@ Gaofeng Zhu, Zhiguo Qu, Le Sun, **Yuming Liu**, Jianfeng Yang
 Journal of Real-Time Image Processing, 2024 (SCI Q2, published)
 
 
-# 🏆 Honors and Awards
-- *2025.10* : **Top 10 Students of Guangzhou University** (十佳学生)
-- *2025.10* : **China National Scholarship**, Ministry of Education of the People’s Republic of China (Top 1%)
-- *2024.10* : **China National Scholarship**, Ministry of Education of the People’s Republic of China (Top 1%)
-- *2023.10* : **China National Endeavor Scholarship**, Ministry of Education of the People’s Republic of China (Top 1%)
-
 
 # 📖 Educations
 - *2026.09 – (expected)*  
@@ -69,10 +63,15 @@ Guangzhou University
 Bachelor of Engineering in Computer Science and Technology  
 Rank: 1/344 (Overall)
 
-# 🏆 Selected Competition Awards
-**As the Team Leader：**
-- *2023.12* : **National First Prize**, The 18th "Challenge Cup" National College Students’ Innovation Competition
-- *2023.06* : **National First Prize**, The 13th MathorCup Mathematical Modeling Competition
-- *2024.08* : **National Second Prize**, The 17th National College Cybersecurity Competition
-- *2025.05* : **National Third Prize**, The 19th "Challenge Cup" National College Students’ Innovation Competition
-- *2023.12* : **National Third Prize**, China Collegiate Computing Contest
+
+# 🏆 Honors and Awards
+- *2025.10* : **Top 10 Students of Guangzhou University** (十佳学生)
+- *2025.10* : **China National Scholarship**, Ministry of Education of the People’s Republic of China (Top 1%)
+- *2024.10* : **China National Scholarship**, Ministry of Education of the People’s Republic of China (Top 1%)
+- *2023.10* : **China National Endeavor Scholarship**, Ministry of Education of the People’s Republic of China (Top 1%)
+- *2023.12* : **National First Prize**, The 18th "Challenge Cup" National College Students’ Innovation Competition (Team Leader)
+- *2023.06* : **National First Prize**, The 13th MathorCup Mathematical Modeling Competition (Team Leader)
+- *2024.08* : **National Second Prize**, The 17th National College Cybersecurity Competition (Team Leader)
+- *2025.05* : **National Third Prize**, The 19th "Challenge Cup" National College Students’ Innovation Competition (Team Leader)
+- *2023.12* : **National Third Prize**, China Collegiate Computing Contest (Team Leader)
+
