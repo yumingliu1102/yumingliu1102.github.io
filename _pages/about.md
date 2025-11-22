@@ -25,7 +25,7 @@ My research focuses on **Trustworthy AI**, aiming to advance the **safety, relia
 <!-- <strong style="color:red;">I will complete my Ph.D. in June 2026 and am actively seeking postdoctoral opportunities. Please feel free to contact me.</strong> -->
 
 # 🔥 News
-- *2025.11.22* : 🎉 Created a new home page.
+- *2025.11.22*: 🎉 Created a new home page.
 
 # 📝 Publications 
 [**Image Copyright Dual-Protection Based on Extractable and Imperceptible Adversarial Watermark**](#)
@@ -54,24 +54,24 @@ Journal of Real-Time Image Processing, 2024 (SCI Q2, published)
 
 # 📖 Educations
 - *2026.09 – (expected)*  
-University of Science and Technology of China (USTC)  
+**University of Science and Technology of China (USTC)  **
 Prospective Ph.D. Candidate, School of Computer Science and Technology  
 Jointly supervised with the Institute of Artificial Intelligence of China Telecom (TeleAI)
 
 - *2022.09 – 2026.06 (expected)*  
-Guangzhou University  
+**Guangzhou University  **
 Bachelor of Engineering in Computer Science and Technology  
 Rank: 1/344 (Overall)
 
 
 # 🏆 Honors and Awards
-- *2025.10* : **Top 10 Students of Guangzhou University** (十佳学生)
-- *2025.10* : **China National Scholarship**, Ministry of Education of the People’s Republic of China (Top 1%)
-- *2024.10* : **China National Scholarship**, Ministry of Education of the People’s Republic of China (Top 1%)
-- *2023.10* : **China National Endeavor Scholarship**, Ministry of Education of the People’s Republic of China (Top 1%)
-- *2023.12* : **National First Prize**, The 18th "Challenge Cup" National College Students’ Innovation Competition (Team Leader)
-- *2023.06* : **National First Prize**, The 13th MathorCup Mathematical Modeling Competition (Team Leader)
-- *2024.08* : **National Second Prize**, The 17th National College Cybersecurity Competition (Team Leader)
-- *2025.05* : **National Third Prize**, The 19th "Challenge Cup" National College Students’ Innovation Competition (Team Leader)
-- *2023.12* : **National Third Prize**, China Collegiate Computing Contest (Team Leader)
+- *2025.10*: **Top 10 Students of Guangzhou University** (十佳学生)
+- *2025.10*: **China National Scholarship**, Ministry of Education of the People’s Republic of China (Top 1%)
+- *2024.10*: **China National Scholarship**, Ministry of Education of the People’s Republic of China (Top 1%)
+- *2023.10*: **China National Endeavor Scholarship**, Ministry of Education of the People’s Republic of China (Top 1%)
+- *2023.12*: **National First Prize**, The 18th "Challenge Cup" National College Students’ Innovation Competition (Team Leader)
+- *2023.06*: **National First Prize**, The 13th MathorCup Mathematical Modeling Competition (Team Leader)
+- *2024.08*: **National Second Prize**, The 17th National College Cybersecurity Competition (Team Leader)
+- *2025.05*: **National Third Prize**, The 19th "Challenge Cup" National College Students’ Innovation Competition (Team Leader)
+- *2023.12*: **National Third Prize**, China Collegiate Computing Contest (Team Leader)
 
