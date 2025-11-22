@@ -15,44 +15,64 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I'm **Yuming Liu <font face="楷体" >(刘玉铭)</font>**, a jointly-supervised prospective Ph.D. candidate at the University of Science and Technology of China (USTC) and the Institute of Artificial Intelligence of China Telecom (TeleAI), co-advised by [**Prof. Jian Zhao**](https://zhaoj9014.github.io/) at TeleAI and [**Prof. Lan Zhang**](https://linke.ustc.edu.cn/LanZhang/list.htm) at USTC.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research focuses on **Trustworthy AI**, aiming to advance the **safety, reliability, and robustness** of intelligent systems for real-world deployment.
 
+<!-- <strong style="color:red;">I will complete my Ph.D. in June 2026 and am actively seeking postdoctoral opportunities. Please feel free to contact me.</strong> -->
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.11.22* : 🎉 Created a new home page.
 
 # 📝 Publications 
+[**Image Copyright Dual-Protection Based on Extractable and Imperceptible Adversarial Watermark**](#)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+**Yuming Liu**, Shan Ai*, Zhili Zhou*, Wei Pang, Changyu Dong, Huilin Ge, Daizhi Liao, Yongfeng Huang
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Big Data Mining and Analytics, 2025 (中科院一区TOP, accepted)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+---
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+[**RTRGAN: Ridge Texture Rendering Based Generative Adversarial Fingerprint Attack for Portable Consumer Electronics Devices**](https://ieeexplore.ieee.org/abstract/document/10542413/) 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+Chengsheng Yuan, Baojie Cui, Zhili Zhou, **Yuming Liu**, Yimin Yang, M. Jonathan Wu
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+IEEE Transactions on Consumer Electronics, 2024 (SCI Q1, published)
+
+---
+
+[**Realistic real-time processing of anime portraits based on generative adversarial networks**](https://link.springer.com/article/10.1007/s11554-024-01481-1) 
+
+Gaofeng Zhu, Zhiguo Qu, Le Sun, **Yuming Liu**, Jianfeng Yang
+
+Journal of Real-Time Image Processing, 2024 (SCI Q2, published)
+
+
+# 🏆 Honors and Awards
+- *2025.10* : **Top 10 Students of Guangzhou University** (十佳学生)
+- *2025.10* : **China National Scholarship**, Ministry of Education of the People’s Republic of China (Top 1%)
+- *2024.10* : **China National Scholarship**, Ministry of Education of the People’s Republic of China (Top 1%)
+- *2023.10* : **China National Endeavor Scholarship**, Ministry of Education of the People’s Republic of China (Top 1%)
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.09 – (expected)*  
+University of Science and Technology of China (USTC)  
+Prospective Ph.D. Candidate, School of Computer Science and Technology  
+Jointly supervised with the Institute of Artificial Intelligence of China Telecom (TeleAI)
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.09 – 2026.06 (expected)*  
+Guangzhou University  
+Bachelor of Engineering in Computer Science and Technology  
+Rank: 1/344 (Overall)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🏆 Selected Competition Awards
+**As the Team Leader：**
+- *2023.12* : **National First Prize**, The 18th "Challenge Cup" National College Students’ Innovation Competition
+- *2023.06* : **National First Prize**, The 13th MathorCup Mathematical Modeling Competition
+- *2024.08* : **National Second Prize**, The 17th National College Cybersecurity Competition
+- *2025.05* : **National Third Prize**, The 19th "Challenge Cup" National College Students’ Innovation Competition
+- *2023.12* : **National Third Prize**, China Collegiate Computing Contest
