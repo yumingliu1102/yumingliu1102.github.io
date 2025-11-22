@@ -20,7 +20,7 @@ redirect_from:
 # 🌽 About me
 I'm **Yuming Liu <font face="楷体">(刘玉铭)</font>**, a jointly-supervised prospective Ph.D. candidate at the University of Science and Technology of China (USTC) and the Institute of Artificial Intelligence of China Telecom (TeleAI), co-advised by [**Prof. Jian Zhao**](https://zhaoj9014.github.io/) at TeleAI and [**Prof. Lan Zhang**](https://linke.ustc.edu.cn/LanZhang/list.htm) at USTC.
 
-My research interests lie in **Trustworthy AI**, with a focus on the **security of large foundation models**, including topics such as **jailbreaking, adversarial attacks, and safety alignment**. As a prospective Ph.D. student, I am still exploring these areas and eager to learn from others in the field. I warmly welcome discussions and collaborations, especially in **Trustworthy AI and foundation model security**. Please feel free to reach out if you share similar interests—I would be grateful for any opportunity to exchange ideas and learn together.
+My research interests lie in **Trustworthy AI**, with a focus on the **security of large foundation models**, including topics such as **jailbreaking, adversarial attacks, and safety alignment**. As a prospective Ph.D. student, I am still exploring these areas and eager to learn from others in the field. I warmly welcome discussions and collaborations, especially in **Trustworthy AI and foundation model security**. Please feel free to reach out if you share similar interests, and I would be grateful for any opportunity to exchange ideas and learn together.
 
 <!-- <strong style="color:red;">I will complete my Ph.D. in June 2026 and am actively seeking postdoctoral opportunities. Please feel free to contact me.</strong> -->
 
