@@ -54,12 +54,12 @@ Journal of Real-Time Image Processing, 2024 (SCI Q2, published)
 
 # 📖 Educations
 - *2026.09 – (expected)*  
-**University of Science and Technology of China (USTC)  **
+**University of Science and Technology of China (USTC)**  
 Prospective Ph.D. Candidate, School of Computer Science and Technology  
 Jointly supervised with the Institute of Artificial Intelligence of China Telecom (TeleAI)
 
 - *2022.09 – 2026.06 (expected)*  
-**Guangzhou University  **
+**Guangzhou University**  
 Bachelor of Engineering in Computer Science and Technology  
 Rank: 1/344 (Overall)
 
