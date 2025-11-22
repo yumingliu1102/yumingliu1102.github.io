@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
-<span class='anchor' id='about'></span>
+<span class='anchor' id='about-me'></span>
 # 🌽 About
 I'm **Yuming Liu <font face="楷体">(刘玉铭)</font>**, a jointly-supervised prospective Ph.D. candidate at the University of Science and Technology of China (USTC) and the Institute of Artificial Intelligence of China Telecom (TeleAI), co-advised by Prof. [**Jian Zhao**](https://zhaoj9014.github.io/) at TeleAI and Prof. [**Lan Zhang**](https://linke.ustc.edu.cn/LanZhang/list.htm) at USTC.
 
