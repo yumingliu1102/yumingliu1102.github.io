@@ -32,7 +32,7 @@ My research interests lie in **Trustworthy AI**, with a focus on the **security 
 
 **Yuming Liu**, Shan Ai*, Zhili Zhou*, Wei Pang, Changyu Dong, Huilin Ge, Daizhi Liao, Yongfeng Huang
 
-Big Data Mining and Analytics, 2025 (中科院一区TOP, accepted)
+Big Data Mining and Analytics, 2025 (中科院一区Top, accepted)
 
 ---
 
@@ -68,7 +68,7 @@ Rank: 1/344 (Overall)
 - *2025.10*: **Top 10 Students of Guangzhou University** (十佳学生)
 - *2025.10*: **China National Scholarship**, Ministry of Education of the People’s Republic of China (Top 1%)
 - *2024.10*: **China National Scholarship**, Ministry of Education of the People’s Republic of China (Top 1%)
-- *2023.10*: **China National Endeavor Scholarship**, Ministry of Education of the People’s Republic of China (Top 1%)
+- *2023.10*: **China National Endeavor Scholarship**, Ministry of Education of the People’s Republic of China
 - *2023.12*: **National First Prize**, The 18th "Challenge Cup" National College Students’ Innovation Competition (Team Leader)
 - *2023.06*: **National First Prize**, The 13th MathorCup Mathematical Modeling Competition (Team Leader)
 - *2024.08*: **National Second Prize**, The 17th National College Cybersecurity Competition (Team Leader)
