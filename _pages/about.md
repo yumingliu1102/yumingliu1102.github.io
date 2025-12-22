@@ -28,7 +28,7 @@ My research interests lie in **Trustworthy AI**, with a focus on the **safety of
 - *2025.11.22*: 🎉 Created a new home page.
 
 # 📝 Publications 
-[**Image Copyright Dual-Protection Based on Extractable and Imperceptible Adversarial Watermark**](#)
+[**Image Copyright Dual-Protection Based on Extractable and Imperceptible Adversarial Watermark**](https://www.sciopen.com/article/10.26599/BDMA.2025.9020070)
 
 **Yuming Liu**, Shan Ai*, Zhili Zhou*, Wei Pang, Changyu Dong, Huilin Ge, Daizhi Liao, Yongfeng Huang
 
