@@ -18,16 +18,26 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🌽 About
-I'm **Yuming Liu <font face="楷体">(刘玉铭)</font>**, a jointly-supervised prospective Ph.D. candidate at the University of Science and Technology of China (USTC) and the Institute of Artificial Intelligence of China Telecom (TeleAI), co-advised by Prof. [**Jian Zhao**](https://zhaoj9014.github.io/) at TeleAI and Prof. [**Lan Zhang**](https://linke.ustc.edu.cn/LanZhang/list.htm) at USTC.
+I'm **Yuming Liu <font face="楷体">(刘玉铭)</font>**, a first-year Ph.D. student jointly supervised at the University of Science and Technology of China (USTC) and the Institute of Artificial Intelligence of China Telecom (TeleAI), co-advised by Prof. [**Jian Zhao**](https://zhaoj9014.github.io/) at TeleAI and Prof. [**Lan Zhang**](https://linke.ustc.edu.cn/LanZhang/list.htm) at USTC.
 
-My research interests lie in **Trustworthy AI**, with a focus on the **safety of large foundation models**, including topics such as **jailbreak, safety alignment and personalized safety**. As a prospective Ph.D. student, I am still exploring these areas and eager to learn from others in the field. I warmly welcome discussions and collaborations, especially in **Trustworthy AI and foundation model security**. Please feel free to reach out if you share similar interests, and I would be grateful for any opportunity to exchange ideas and learn together.
+My research interests lie in **Trustworthy AI**, with a focus on the **safety of large foundation models**, including topics such as **jailbreak, safety alignment and personalized safety**. As an early-stage Ph.D. student, I am still exploring these areas and eager to learn from others in the field. I warmly welcome discussions and collaborations, especially in **Trustworthy AI and foundation model security**. Please feel free to reach out if you share similar interests, and I would be grateful for any opportunity to exchange ideas and learn together.
 
 <!-- <strong style="color:red;">I will complete my Ph.D. in June 2026 and am actively seeking postdoctoral opportunities. Please feel free to contact me.</strong> -->
 
 # 🔥 News
+- *2026.09*: 🎉 One paper accepted to the IJCAI 2026 Workshop (DDL 2.0: AIGC Safety), together with a **Gold Award (1/8)** in the OpenClaw Security Attack and Defense Challenge.
 - *2025.11.22*: 🎉 Created a new home page.
 
 # 📝 Publications 
+
+**Cross-Modal Decoupled Attacks on Autonomous LLM Agents**
+
+Jun Zhang, Jian Zhao, **Yuming Liu**, Huilin Zhou, Rubin He, Tianle Zhang, Wenqi Ren, Xuelong Li
+
+IJCAI (CCF-B) 2026 Workshop: DDL 2.0: AIGC Safety from Dual Perspectives of Model and Content (accepted)
+
+---
+
 [**Image Copyright Dual-Protection Based on Extractable and Imperceptible Adversarial Watermark**](https://www.sciopen.com/article/10.26599/BDMA.2025.9020070)
 
 **Yuming Liu**, Shan Ai*, Zhili Zhou*, Wei Pang, Changyu Dong, Huilin Ge, Daizhi Liao, Yongfeng Huang
@@ -53,12 +63,12 @@ Journal of Real-Time Image Processing, 2024 (SCI Q2, published)
 
 
 # 📖 Educations
-- *2026.09 – (expected)*  
+- *2026.09 – Present*  
 **University of Science and Technology of China (USTC)**  
-Prospective Ph.D. Candidate, School of Computer Science and Technology  
+Ph.D. Student, School of Computer Science and Technology  
 Jointly supervised with the Institute of Artificial Intelligence of China Telecom (TeleAI)
 
-- *2022.09 – 2026.06 (expected)*  
+- *2022.09 – 2026.06*  
 **Guangzhou University**  
 Bachelor of Engineering in Computer Science and Technology  
 Rank: 1/344 (Overall)
