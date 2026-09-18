@@ -30,6 +30,14 @@ My research interests lie in **Trustworthy AI**, with a focus on the **safety of
 
 # 📝 Publications 
 
+**TrustGuard: Persistent Trust State Governance for Personalized Agent Safety**
+
+**Yuming Liu**, Jian Zhao, Kai Wang, Huilin Zhou, Yuxuan Zhou, Tianle Zhang, Lan Zhang
+
+Under review
+
+---
+
 **Cross-Modal Decoupled Attacks on Autonomous LLM Agents**
 
 Jun Zhang, Jian Zhao, **Yuming Liu**, Huilin Zhou, Rubin He, Tianle Zhang, Wenqi Ren, Xuelong Li
@@ -53,12 +61,6 @@ Chengsheng Yuan, Baojie Cui, Zhili Zhou, **Yuming Liu**, Yimin Yang, M. Jonathan
 IEEE Transactions on Consumer Electronics, 2024 (SCI Q1, published)
 
 ---
-
-[**Realistic real-time processing of anime portraits based on generative adversarial networks**](https://link.springer.com/article/10.1007/s11554-024-01481-1) 
-
-Gaofeng Zhu, Zhiguo Qu, Le Sun, **Yuming Liu**, Jianfeng Yang
-
-Journal of Real-Time Image Processing, 2024 (SCI Q2, published)
 
 
 
