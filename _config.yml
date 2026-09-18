@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuming Liu"
-description              : "Prospective Ph.D. Candidate, University of Science and Technology of China"
+description              : "Ph.D. Student, University of Science and Technology of China"
 repository               : "yumingliu1102/yumingliu1102.github.io"
 # google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ author:
   name             : "Yuming Liu"
   avatar           : "images/yuming.jpg"
   bio              : "Major in Computer Science"
-  location         : "BeiJing, China"
+  location         : "ShangHai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=dA1NaJYAAAAJ&hl=en"
